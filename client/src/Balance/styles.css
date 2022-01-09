@@ -1,0 +1,45 @@
+#doughnut {
+    margin-right: 400px;
+    margin-left: 70px;
+}
+
+#bbb {
+    margin-left: 350px;
+}
+
+#heading {
+    margin-top: -270px;
+    margin-left: 10px;
+    font-size: 35px;
+}
+
+#income {
+    margin-top: 20px;
+    margin-left: 18px;
+    font-size: 29px;
+    color: green;
+}
+
+#expense {
+    margin-top: -12px;
+    margin-left: 18px;
+    font-size: 29px;
+    color: red;
+    border-bottom: 2px solid black;
+}
+
+#plus {
+    margin-top: -19px;
+    font-size: 42px;
+    margin-right: 180px;
+}
+
+#underline {
+    font-size: 170px;
+    margin-top: 1px;
+}
+
+#total {
+    font-size: 29px;
+    margin-left: 20px;
+}
